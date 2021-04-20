@@ -166,9 +166,9 @@ export default [
         type: "bow",
         rarity: 4,
         ascension: [
-            "boreal_wolf",
-            "dead_ley_line_branch",
-            "treasure_hoarder_insignia",
+            "dandelion_gladiator",
+            "chaos_device",
+            "slime_condensate",
         ],
     },
     {
